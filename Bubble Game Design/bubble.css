@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(107, 107, 241);
+
+}
+
+.main {
+    margin: auto;
+}
+
+.header {
+    align-items: center;
+    background-color: blue;
+}
+
+.header img {
+    padding: 10px;
+    margin-left: 200px;
+    width: 250px;
+    float: left;
+}
+
+.header h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    padding: 20px;
+    margin-left: 498px;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    background-color: blue;
+    height: 100px;
+    margin-top: 450px;
+}
+
+.lbl{
+    color: rgb(253, 253, 253);
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 200px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+    float: left;
+}
+button:hover{
+    background-color: rgb(2, 2, 55);
+    color: white;
+}
+.box{
+    float: right;
+    margin-right: 71px;
+    margin-top: 30px;
+}
+.box1{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    float: left;
+}
+.box2{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    float: left;
+}
+.box3{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    float: left;
+}
+
+.box4{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    float: left;
+}
+
+.box5{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    margin-left: 10px;
+    float: left;
+}
+
+.Round{
+    background-color: rgb(79, 178, 245);
+    box-shadow: -5px 8px 8px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    line-height: 50px;
+    color: blue;
+    font-weight: bold;
+}
